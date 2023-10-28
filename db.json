@@ -1,20 +1,25 @@
 {
   "fragrancia":[
-    {"descricao": "Salvia"},
-    {"descricao": "Floral"},
-    {"descricao": "Morango"},
-    {"descricao": "Tangerina"}
+    {"id" : "1","descricao": "Salvia"},
+    {"id" : "2","descricao": "Floral"},
+    {"id" : "3","descricao": "Morango"},
+    {"id" : "4","descricao": "Tangerina"}
   ],
   "tamanho":[
-    {"volume": "50 ml"},
-    {"volume": "100 ml"},
-    {"volume": "50 ml"},
-    {"volume": "200 ml"}
+    {"id" : "1","volume": "50 ml"},
+    {"id" : "2","volume": "100 ml"},
+    {"id" : "3","volume": "50 ml"},
+    {"id" : "4","volume": "200 ml"}
   ],
   "listaPedido":[
     {"nome": "Salvia","quantidade": "50 ml","valor": "R$ 50"},
     {"nome": "Tangerina","quantidade": "200 ml","valor":"R$ 200"},
     {"nome": "Floral","quantidade": "100 ml","valor":"R$ 100"},
     {"nome": "Morango","quantidade": "50 ml","valor":"R$ 200"}
+  ],
+   "classificacao":[
+    {"id" : "1","descricao": "Colônia"},
+    {"id" : "2","descricao": "Perfume"},
+    {"id" : "3","descricao": "Sabonete"}
   ]
 }
