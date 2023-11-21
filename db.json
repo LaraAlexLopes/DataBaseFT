@@ -18,8 +18,8 @@
     {"nome": "Morango","quantidade": "50 ml","valor":"R$ 200"}
   ],
    "classificacao":[
-    {"id" : "1","descricao": "Colônia"},
-    {"id" : "2","descricao": "Perfume"},
-    {"id" : "3","descricao": "Sabonete"}
+    {"id" : "1","classificacao": "Colônia"},
+    {"id" : "2","classificacao": "Perfume"},
+    {"id" : "3","classificacao": "Sabonete"}
   ]
 }
