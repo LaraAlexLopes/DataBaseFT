@@ -13,8 +13,8 @@
   ],
   "listaPedido":[
     {"nome": "Salvia","quantidade": "50 ml","valor": "R$ 50"},
-    {"nome": "Tangerina","quantidade": "200 ml","valor":"R$ 200"},
-    {"nome": "Floral","quantidade": "100 ml","valor":"R$ 100"},
+    {"nome": "Tangerina","quantidade": "200 ml","valor":"R$ 100"},
+    {"nome": "Floral","quantidade": "100 ml","valor":"R$ 150"},
     {"nome": "Morango","quantidade": "50 ml","valor":"R$ 200"}
   ],
    "classificacao":[
